@@ -1,1 +1,9 @@
 /* your code */
+table, tr, th, td{
+	border:1px solid;
+	padding:2px;
+}
+thead{
+	color:white;
+	background-color:blue;
+}
